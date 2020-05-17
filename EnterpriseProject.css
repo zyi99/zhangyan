@@ -1,0 +1,20 @@
+ul{
+    display: table;
+    width: 100%;
+    background: gainsboro;
+    height: 40px;
+    margin-top: 0px;
+
+}
+ul li{
+    display: table-cell;
+    width: 33.3%;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+}
+ul li span{
+    display: block;
+}
+
+ul li a{text-decoration: none;}
